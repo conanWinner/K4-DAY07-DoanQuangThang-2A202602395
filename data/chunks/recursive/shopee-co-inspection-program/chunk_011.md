@@ -1,0 +1,18 @@
+---
+doc_id: "shopee-co-inspection-program"
+title: "Chương trình Shopee Đồng Kiểm"
+source_url: "https://help.shopee.vn/portal/4/article/124982"
+retrieved_at: "2026-09-20"
+document_version: "not-stated"
+audience: "buyer"
+category: "shipping-policy"
+language: "vi"
+strategy: "recursive"
+chunk_index: 11
+char_count: 438
+---
+(*) Nếu bạn có dấu hiệu lạm dụng chương trình SHOPEE ĐỒNG KIỂM (tỉ lệ từ chối nhận hàng sau khi đồng kiểm cao mà không có lý do phù hợp…), Shopee sẽ có biện pháp xử lý thích hợp bao gồm nhưng không giới hạn việc hạn chế bạn khỏi chương trình, khóa tài khoản mà không thông báo trước hoặc đưa vụ việc ra cơ quan nhà nước có thẩm quyền theo quy định của pháp luật.
+
+ 
+
+8. Tôi có được hoàn tiền khi từ chối nhận hàng sau khi đồng kiểm không?
